@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <NuxtWelcome />
+  </div>
+</template>
+
+<script>
+// You Can Delete app.vue compononet and use the pages compononet directly the index.vue is the home page then
+
+</script>
