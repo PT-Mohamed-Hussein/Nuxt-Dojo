@@ -1,6 +1,6 @@
 <script setup>
-    const { data } = await useFetch('/api/serverroute')
-    const { data2 } = await useFetch('/api/currency/GBP')
+    // const { data } = await useFetch('/api/serverroute')
+    const { data } = await useFetch('/api/currency/GBP')
     // const { data } = await useFetch('/api/serverroute?name=Mohamed', {method: "POST", body:{ age: 30}})
 
 </script>
